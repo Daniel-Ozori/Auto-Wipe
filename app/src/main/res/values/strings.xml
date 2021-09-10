@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Wipe</string>
+    <string name="description">Clear phone data when prompted</string>
+</resources>
